@@ -1,9 +1,8 @@
-﻿#include "engine.h"
-
+#include "engine.h"
 
 SDL_Window* window;
-SDL_Renderer* renderer;
+SDL_Renderer* render;
 
-bool keys[SDL_NUM_SCANCODES] = {false};
+bool keys[SDL_NUM_SCANCODES] = { false };
 
-float delta_time = 0.0f;
+float delta_time = 0.f;

@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\geezer\code\C++\SDL Intro\src\main.cpp(29,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FutureGames_SDL.vcxproj -> E:\geezer\code\C++\SDL Intro\bin\Game_Debug.exe
